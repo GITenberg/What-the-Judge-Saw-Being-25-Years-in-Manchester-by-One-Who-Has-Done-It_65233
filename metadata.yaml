@@ -1,11 +1,16 @@
 _repo: What-the-Judge-Saw-Being-25-Years-in-Manchester-by-One-Who-Has-Done-It_65233
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65233-h/images/cover.jpg
 creator:
   author:
     agent_name: Parry, Sir Edward Abbott
     gutenberg_agent_id: '53244'
     url: http://www.gutenberg.org/2009/agents/53244
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65233#What-the-Judge-Saw-Being-25-Years-in-Manchester-by-One-Who-Has-Done-It
 gutenberg_issued: '2021-05-02'
 gutenberg_type: Text
 identifiers:
